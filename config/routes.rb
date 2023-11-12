@@ -3,37 +3,14 @@ Rails.application.routes.draw do
 end
 
 
+
 Rails.application.routes.draw do
   resources :fishes
-  'root#index'
-end
-
-Rails.application.routes.draw do
   resources :kinds
-  'root#index'
-end
-
-Rails.application.routes.draw do
-  resources :diseases
-  'root#index'
-end
-
-Rails.application.routes.draw do
   resources :pets
-  'root#index'
-end
-
-Rails.application.routes.draw do
-  resources :grows
-  'root#index'
-end
-
-Rails.application.routes.draw do
   resources :animals
-  'root#index'
-end
-
-Rails.application.routes.draw do
+  resources :grows
+  resources :diseases
   resources :homes
   'root#index'
 end
