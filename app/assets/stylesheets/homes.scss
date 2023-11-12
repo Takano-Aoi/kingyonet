@@ -1,0 +1,62 @@
+// Place all the styles related to the homes controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+
+* {
+    
+    padding: 0;
+  }
+
+h1 {
+    color: rgb(255, 111, 0);  /*文字色を青に設定*/
+    background-color: aqua;
+   }
+
+  .first-block {
+    height: 70px;
+    width: 60%;
+    background-color: #faf5f5;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 10px;
+  }
+
+  .second-block {
+    height: 70px;
+    width: 60%;
+    background-color: #faf5f5;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 10px;
+  }
+
+  .third-block {
+    height: 70px;
+    width: 60%;
+    background-color: #faf5f5;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 10px;
+  }
+
+  .fourth-block {
+    height: 70px;
+    width: 60%;
+    background-color: #faf5f5;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 10px;
+  }
+
+  .fifth-block {
+    height: 70px;
+    width: 60%;
+    background-color: #faf5f5;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 10px;
+  }
+.box {
+    background-color: rgb(139, 245, 255);  /*背景色をピンク色に設定*/
+    height: 500px;  /*箱の高さを100pxに設定*/
+   }

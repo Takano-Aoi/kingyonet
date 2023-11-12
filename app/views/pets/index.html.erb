@@ -1,0 +1,25 @@
+<!DOCTYPE html> <!--　この文章がHTML文章であることを伝える要素です。-->
+<html lang="ja"><!--言語の指定-->
+    <head><!--ページに表示されない情報(サイトの裏側の設定)-->
+        <meta charset="utf-8">
+        <title>おすすめ金魚診断スタート</title><!--ブラウザのタブのタイトルを指定-->
+    </head>
+
+    <div class="box">
+    <body>
+        <header>
+            <h1 class="headline">
+            <a>おすすめ金魚診断</a>
+            <p>ここでは、５つの質問からあなたの希望に合いそうな金魚を判定します！</p>
+            </h1>
+            <ul class="nav-list">
+
+            </ul>
+        </header>
+
+        <div class="start">
+            <h6>Are you ready?</h6>
+            <%= link_to "診断を始める", new_pet_path, class: "link" %>
+        </div>
+    </body>
+    </div>

@@ -1,0 +1,46 @@
+
+<!DOCTYPE html> <!--　この文章がHTML文章であることを伝える要素です。-->
+<html lang="ja"><!--言語の指定-->
+  <head><!--ページに表示されない情報(サイトの裏側の設定)-->
+    <meta charset="utf-8">
+    <title></title><!--ブラウザのタブのタイトルを指定-->
+    <link rel="stylesheet" type="text/css" href="stylesheets/index.css">
+
+  <head>
+
+<body>
+<h1>ここは金魚についてざっくりまとめたホームページです<h1>
+
+<div class="box">
+
+<div class="first-block">
+<%= link_to '飼い方ガイド', :controller => "grows", :action => "index" %>
+</div>
+
+<div class="second-block">
+<%= link_to '金魚の種類一覧', :controller => "kinds", :action => "index" %>
+</div>
+
+<div class="third-block">
+<%= link_to '種類判定', :controller => "animals", :action => "index" %>
+</div>
+
+<div class="fourth-block">
+<%= link_to '病気一覧', :controller => "diseases", :action => "index" %>
+</div>
+
+<div class="fifth-block">
+<%= link_to 'おすすめ金魚診断', :controller => "pets", :action => "index" %>
+</div>
+
+</div>
+
+
+
+
+
+
+
+
+
+

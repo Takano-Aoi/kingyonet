@@ -1,0 +1,21 @@
+// Place all the styles related to the grows controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+
+.big-box {
+    color: rgb(0, 0, 0);  /*文字色を青に設定*/
+    background-color:rgb(169, 248, 248);
+   }
+
+.p{
+    margin: bottom 30px;    
+}
+
+.box1 {
+    color: rgb(0, 0, 0);  /*文字色を青に設定*/
+    font-size: 100%;
+    margin: 0 auto;
+    width: 80%;
+    background-color:rgb(243, 250, 205);
+    height: 10000px;
+   }

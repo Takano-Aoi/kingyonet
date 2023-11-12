@@ -1,0 +1,882 @@
+// Place all the styles related to the kinds controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+
+
+.big-box {
+    color: rgb(0, 0, 0);  /*文字色を青に設定*/
+    background-color:rgb(169, 248, 248);
+   }
+
+.p{
+    margin: bottom 30px;    
+}
+
+.box1-1 span{
+    font-size: 150%;
+}
+
+.box1 {
+    color: rgb(0, 0, 0);  /*文字色を青に設定*/
+    font-size: 100%;
+    margin: 0 auto;
+    width: 80%;
+    background-color:rgb(243, 250, 205);
+    height: 650px;
+   }
+
+   .box1-1 {
+    color: rgb(0, 0, 0);  /*文字色を青に設定*/
+    font-size: 100%;
+    position: absolute;  
+    top: 50px;  
+    left: 580px; 
+    margin: 0 auto;
+    width: 40%;
+    background-color:rgb(243, 250, 205);
+    height: 300px;
+   }
+
+   .box1-1 span {
+    color: rgb(73, 88, 247);
+    font-size: 120%;
+    font-weight: 100;
+   }
+
+
+
+   .box3-3 span {
+    color: rgb(73, 88, 247);
+    font-size: 120%;
+    font-weight: 100;
+   }
+
+   .box4-4 span {
+    color: rgb(73, 88, 247);
+    font-size: 120%;
+    font-weight: 100;
+   }
+
+   .box5-5 span {
+    color: rgb(73, 88, 247);
+    font-size: 120%;
+    font-weight: 100;
+   }
+
+   .box6-6 span {
+    color: rgb(73, 88, 247);
+    font-size: 120%;
+    font-weight: 100;
+   }
+
+   .box7-7 span {
+    color: rgb(73, 88, 247);
+    font-size: 120%;
+    font-weight: 100;
+   }
+
+   .box8-8 span {
+    color: rgb(73, 88, 247);
+    font-size: 120%;
+    font-weight: 100;
+   }
+
+   .box9-9 span {
+    color: rgb(73, 88, 247);
+    font-size: 120%;
+    font-weight: 100;
+   }
+
+   .box10-10 span {
+    color: rgb(73, 88, 247);
+    font-size: 120%;
+    font-weight: 100;
+   }
+
+   .box11-11 span {
+    color: rgb(73, 88, 247);
+    font-size: 120%;
+    font-weight: 100;
+   }
+
+   .box12-12 span {
+    color: rgb(73, 88, 247);
+    font-size: 120%;
+    font-weight: 100;
+   }
+
+   .box13-13 span {
+    color: rgb(73, 88, 247);
+    font-size: 120%;
+    font-weight: 100;
+   }
+
+   .box14-14 span {
+    color: rgb(73, 88, 247);
+    font-size: 120%;
+    font-weight: 100;
+   }
+
+   .box15-15 span {
+    color: rgb(73, 88, 247);
+    font-size: 120%;
+    font-weight: 100;
+   }
+
+   .box16-16 span {
+    color: rgb(73, 88, 247);
+    font-size: 120%;
+    font-weight: 100;
+   }
+
+   .box17-17 span {
+    color: rgb(73, 88, 247);
+    font-size: 120%;
+    font-weight: 100;
+   }
+
+   .box18-18 span {
+    color: rgb(73, 88, 247);
+    font-size: 120%;
+    font-weight: 100;
+   }
+
+   .box19-19 span {
+    color: rgb(73, 88, 247);
+    font-size: 120%;
+    font-weight: 100;
+   }
+
+   .box20-20 span {
+    color: rgb(73, 88, 247);
+    font-size: 120%;
+    font-weight: 100;
+   }
+
+   .box21-21 span {
+    color: rgb(73, 88, 247);
+    font-size: 120%;
+    font-weight: 100;
+   }
+
+   .box22-22 span {
+    color: rgb(73, 88, 247);
+    font-size: 120%;
+    font-weight: 100;
+   }
+
+   .box23-23 span {
+    color: rgb(73, 88, 247);
+    font-size: 120%;
+    font-weight: 100;
+   }
+
+
+
+
+   .box2 {
+    color: rgb(0, 0, 0);  /*文字色を青に設定*/
+    font-size: 100%;
+    margin: 0 auto;
+    height: 950px;
+    width: 80%;
+    background-color:rgb(243, 250, 205);
+   }
+   .box2-2 {
+    color: rgb(0, 0, 0);  /*文字色を青に設定*/
+    font-size: 100%;
+    position: absolute;  
+    top: 700px;  
+    left: 580px; 
+    margin: 0 auto;
+    width: 40%;
+    background-color:rgb(243, 250, 205);
+    height: 300px;
+    }
+   .box2-2 span {
+    color: rgb(73, 88, 247);
+    font-size: 120%;
+    font-weight: 100;
+   }
+   .box3 {
+    color: rgb(0, 0, 0);  /*文字色を青に設定*/
+    font-size: 100%;
+    margin: 0 auto;
+    height: 400px;
+    width: 80%;
+    background-color:rgb(243, 250, 205);
+   }
+
+   .box3-3 {
+    color: rgb(0, 0, 0);  /*文字色を青に設定*/
+    font-size: 100%;
+    position: absolute;  
+    top: 1690px;  
+    left: 580px; 
+    margin: 0 auto;
+    width: 40%;
+    background-color:rgb(243, 250, 205);
+    height: 300px;
+    }
+
+   .box4 {
+    color: rgb(0, 0, 0);  /*文字色を青に設定*/
+    font-size: 100%;
+    margin: 0 auto;
+    height: 400px;
+    width: 80%;
+    background-color:rgb(243, 250, 205);
+   }
+   .box4-4 {
+    color: rgb(0, 0, 0);  /*文字色を青に設定*/
+    font-size: 100%;
+    position: absolute;  
+    top: 2100px;  
+    left: 580px; 
+    margin: 0 auto;
+    width: 40%;
+    background-color:rgb(243, 250, 205);
+    height: 300px;
+    }
+
+   .box5 {
+    color: rgb(0, 0, 0);  /*文字色を青に設定*/
+    font-size: 100%;
+    margin: 0 auto;
+    height: 650px;
+    width: 80%;
+    background-color:rgb(243, 250, 205);
+   }
+   .box5-5 {
+    color: rgb(0, 0, 0);  /*文字色を青に設定*/
+    font-size: 100%;
+    position: absolute;  
+    top: 2510px;  
+    left: 580px; 
+    margin: 0 auto;
+    width: 40%;
+    background-color:rgb(243, 250, 205);
+    height: 300px;
+    }
+
+   .box6 {
+    color: rgb(0, 0, 0);  /*文字色を青に設定*/
+    font-size: 100%;
+    margin: 0 auto;
+    height: 660px;
+    width: 80%;
+    background-color:rgb(243, 250, 205);
+   }
+   .box6-6 {
+    color: rgb(0, 0, 0);  /*文字色を青に設定*/
+    font-size: 100%;
+    position: absolute;  
+    top: 3160px;  
+    left: 580px; 
+    margin: 0 auto;
+    width: 40%;
+    background-color:rgb(243, 250, 205);
+    height: 300px;
+    }
+
+   .box7 {
+    color: rgb(0, 0, 0);  /*文字色を青に設定*/
+    font-size: 100%;
+    margin: 0 auto;
+    height: 640px;
+    width: 80%;
+    background-color:rgb(243, 250, 205);
+   }
+   .box7-7 {
+    color: rgb(0, 0, 0);  /*文字色を青に設定*/
+    font-size: 100%;
+    position: absolute;  
+    top: 3850px;  
+    left: 580px; 
+    margin: 0 auto;
+    width: 40%;
+    background-color:rgb(243, 250, 205);
+    height: 300px;
+    }
+
+   .box8 {
+    color: rgb(0, 0, 0);  /*文字色を青に設定*/
+    font-size: 100%;
+    margin: 0 auto;
+    height: 400px;
+    width: 80%;
+    background-color:rgb(243, 250, 205);
+   }
+   .box8-8 {
+    color: rgb(0, 0, 0);  /*文字色を青に設定*/
+    font-size: 100%;
+    position: absolute;  
+    top: 4510px;  
+    left: 580px; 
+    margin: 0 auto;
+    width: 40%;
+    background-color:rgb(243, 250, 205);
+    height: 300px;
+    }
+
+   .box9 {
+    color: rgb(0, 0, 0);  /*文字色を青に設定*/
+    font-size: 100%;
+    margin: 0 auto;
+    height: 640px;
+    width: 80%;
+    background-color:rgb(243, 250, 205);
+   }
+   .box9-9 {
+    color: rgb(0, 0, 0);  /*文字色を青に設定*/
+    font-size: 100%;
+    position: absolute;  
+    top: 4920px;  
+    left: 580px; 
+    margin: 0 auto;
+    width: 40%;
+    background-color:rgb(243, 250, 205);
+    height: 300px;
+    }
+
+   .box10 {
+    color: rgb(0, 0, 0);  /*文字色を青に設定*/
+    font-size: 100%;
+    margin: 0 auto;
+    height: 370px;
+    width: 80%;
+    background-color:rgb(243, 250, 205);
+   }
+   .box10-10 {
+    color: rgb(0, 0, 0);  /*文字色を青に設定*/
+    font-size: 100%;
+    position: absolute;  
+    top: 5570px;  
+    left: 580px; 
+    margin: 0 auto;
+    width: 40%;
+    background-color:rgb(243, 250, 205);
+    height: 300px;
+    }
+
+   .box11 {
+    color: rgb(0, 0, 0);  /*文字色を青に設定*/
+    font-size: 100%;
+    margin: 0 auto;
+    height: 370px;
+    width: 80%;
+    background-color:rgb(243, 250, 205);
+   }
+   .box11-11 {
+    color: rgb(0, 0, 0);  /*文字色を青に設定*/
+    font-size: 100%;
+    position: absolute;  
+    top: 5960px;  
+    left: 580px; 
+    margin: 0 auto;
+    width: 40%;
+    background-color:rgb(243, 250, 205);
+    height: 300px;
+    }
+
+   .box12 {
+    color: rgb(0, 0, 0);  /*文字色を青に設定*/
+    font-size: 100%;
+    margin: 0 auto;
+    height: 340px;
+    width: 80%;
+    background-color:rgb(243, 250, 205);
+   }
+   .box12-12 {
+    color: rgb(0, 0, 0);  /*文字色を青に設定*/
+    font-size: 100%;
+    position: absolute;  
+    top: 6350px;  
+    left: 580px; 
+    margin: 0 auto;
+    width: 40%;
+    background-color:rgb(243, 250, 205);
+    height: 300px;
+    }
+
+   .box13 {
+    color: rgb(0, 0, 0);  /*文字色を青に設定*/
+    font-size: 100%;
+    margin: 0 auto;
+    height: 600px;
+    width: 80%;
+    background-color:rgb(243, 250, 205);
+   }
+   .box13-13 {
+    color: rgb(0, 0, 0);  /*文字色を青に設定*/
+    font-size: 100%;
+    position: absolute;  
+    top: 6700px;  
+    left: 580px; 
+    margin: 0 auto;
+    width: 40%;
+    background-color:rgb(243, 250, 205);
+    height: 300px;
+    }
+
+   .box14 {
+    color: rgb(0, 0, 0);  /*文字色を青に設定*/
+    font-size: 100%;
+    margin: 0 auto;
+    height: 350px;
+    width: 80%;
+    background-color:rgb(243, 250, 205);
+   }
+   .box14-14 {
+    color: rgb(0, 0, 0);  /*文字色を青に設定*/
+    font-size: 100%;
+    position: absolute;  
+    top: 7310px;  
+    left: 580px; 
+    margin: 0 auto;
+    width: 40%;
+    background-color:rgb(243, 250, 205);
+    height: 300px;
+    }
+
+   .box15 {
+    color: rgb(0, 0, 0);  /*文字色を青に設定*/
+    font-size: 100%;
+    margin: 0 auto;
+    height: 350px;
+    width: 80%;
+    background-color:rgb(243, 250, 205);
+   }
+   .box15-15 {
+    color: rgb(0, 0, 0);  /*文字色を青に設定*/
+    font-size: 100%;
+    position: absolute;  
+    top: 7690px;  
+    left: 580px; 
+    margin: 0 auto;
+    width: 40%;
+    background-color:rgb(243, 250, 205);
+    height: 300px;
+    }
+
+   .box16 {
+    color: rgb(0, 0, 0);  /*文字色を青に設定*/
+    font-size: 100%;
+    margin: 0 auto;
+    height: 660px;
+    width: 80%;
+    background-color:rgb(243, 250, 205);
+   }
+   .box16-16 {
+    color: rgb(0, 0, 0);  /*文字色を青に設定*/
+    font-size: 100%;
+    position: absolute;  
+    top: 8040px;  
+    left: 580px; 
+    margin: 0 auto;
+    width: 40%;
+    background-color:rgb(243, 250, 205);
+    height: 300px;
+    }
+
+   .box17 {
+    color: rgb(0, 0, 0);  /*文字色を青に設定*/
+    font-size: 100%;
+    margin: 0 auto;
+    height: 370px;
+    width: 80%;
+    background-color:rgb(243, 250, 205);
+   }
+   .box17-17 {
+    color: rgb(0, 0, 0);  /*文字色を青に設定*/
+    font-size: 100%;
+    position: absolute;  
+    top: 8730px;  
+    left: 580px; 
+    margin: 0 auto;
+    width: 40%;
+    background-color:rgb(243, 250, 205);
+    height: 300px;
+    }
+
+   .box18 {
+    color: rgb(0, 0, 0);  /*文字色を青に設定*/
+    font-size: 100%;
+    margin: 0 auto;
+    height: 370px;
+    width: 80%;
+    background-color:rgb(243, 250, 205);
+   }
+   .box18-18 {
+    color: rgb(0, 0, 0);  /*文字色を青に設定*/
+    font-size: 100%;
+    position: absolute;  
+    top: 9100px;  
+    left: 580px; 
+    margin: 0 auto;
+    width: 40%;
+    background-color:rgb(243, 250, 205);
+    height: 300px;
+    }
+
+   .box19 {
+    color: rgb(0, 0, 0);  /*文字色を青に設定*/
+    font-size: 100%;
+    margin: 0 auto;
+    height: 370px;
+    width: 80%;
+    background-color:rgb(243, 250, 205);
+   }
+   .box19-19 {
+    color: rgb(0, 0, 0);  /*文字色を青に設定*/
+    font-size: 100%;
+    position: absolute;  
+    top: 9490px;  
+    left: 580px; 
+    margin: 0 auto;
+    width: 40%;
+    background-color:rgb(243, 250, 205);
+    height: 300px;
+    }
+
+   .box20 {
+    color: rgb(0, 0, 0);  /*文字色を青に設定*/
+    font-size: 100%;
+    margin: 0 auto;
+    height: 370px;
+    width: 80%;
+    background-color:rgb(243, 250, 205);
+   }
+   .box20-20 {
+    color: rgb(0, 0, 0);  /*文字色を青に設定*/
+    font-size: 100%;
+    position: absolute;  
+    top: 9880px;  
+    left: 580px; 
+    margin: 0 auto;
+    width: 40%;
+    background-color:rgb(243, 250, 205);
+    height: 300px;
+    }
+
+   .box21 {
+    color: rgb(0, 0, 0);  /*文字色を青に設定*/
+    font-size: 100%;
+    margin: 0 auto;
+    height: 370px;
+    width: 80%;
+    background-color:rgb(243, 250, 205);
+   }
+   .box21-21 {
+    color: rgb(0, 0, 0);  /*文字色を青に設定*/
+    font-size: 100%;
+    position: absolute;  
+    top: 10280px;  
+    left: 580px; 
+    margin: 0 auto;
+    width: 40%;
+    background-color:rgb(243, 250, 205);
+    height: 300px;
+    }
+   .box22 {
+    color: rgb(0, 0, 0);  /*文字色を青に設定*/
+    font-size: 100%;
+    margin: 0 auto;
+    height: 370px;
+    width: 80%;
+    background-color:rgb(243, 250, 205);
+   }
+   .box22-22 {
+    color: rgb(0, 0, 0);  /*文字色を青に設定*/
+    font-size: 100%;
+    position: absolute;  
+    top: 10670px;  
+    left: 580px; 
+    margin: 0 auto;
+    width: 40%;
+    background-color:rgb(243, 250, 205);
+    height: 300px;
+    }
+   .box23 {
+    color: rgb(0, 0, 0);  /*文字色を青に設定*/
+    font-size: 100%;
+    margin: 0 auto;
+    height: 370px;
+    width: 80%;
+    background-color:rgb(243, 250, 205);
+   }
+   .box23-23 {
+    color: rgb(0, 0, 0);  /*文字色を青に設定*/
+    font-size: 100%;
+    position: absolute;  
+    top: 11050px;  
+    left: 580px; 
+    margin: 0 auto;
+    width: 40%;
+    background-color:rgb(243, 250, 205);
+    height: 300px;
+    }
+
+
+
+   .custom-image1 {  
+    position: absolute;  
+    top: 50px;  
+    left: 170px;
+    width: 30%;
+   }
+
+   .custom-image2{  
+    position: absolute;  
+    top:360px;  
+    left: 170px;
+    width: 30%;
+   }
+
+   .custom-image3 {  
+    position: absolute;  
+    top:360px;  
+    left: 600px;
+    width: 30%;
+    height: 250px;
+    object-fit:cover
+   }
+
+   .custom-image4 {  
+    position: absolute;  
+    top: 720px;  
+    left: 170px;
+    width: 30%
+   }
+
+   .custom-image5 {  
+    position: absolute;  
+    top: 1000px;  
+    left: 170px;
+    width: 30%;
+   }
+
+   .custom-image6 {  
+    position: absolute;  
+    top: 1000px;  
+    left: 600px;
+    width: 31%;
+   }
+
+   .custom-image7 {  
+    position: absolute;  
+    top: 1280px;  
+    left: 170px;
+    width: 30%;
+   }
+
+   .custom-image8 {  
+    position: absolute;  
+    top: 1280px;  
+    left: 600px;
+    width: 30%;
+   }
+
+   .custom-image9 {  
+    position: absolute;  
+    top: 1690px;  
+    left: 170px;
+    width: 30%;
+   }
+
+   .custom-image10 {  
+    position: absolute;  
+    top: 2100px;  
+    left: 170px;
+    width: 30%;
+   }
+
+   .custom-image11 {  
+    position: absolute;  
+    top: 2510px;  
+    left: 170px;
+    width: 30%;
+   }
+
+   .custom-image12 {  
+    position: absolute;  
+    top: 2820px;  
+    left: 170px;
+    width: 30%;
+   }
+
+   .custom-image13 {  
+    position: absolute;  
+    top: 2820px;  
+    left: 600px;
+    width: 30%;
+   }
+
+   .custom-image14 {  
+    position: absolute;  
+    top: 3190px;  
+    left: 170px;
+    width: 30%;
+   }
+
+   .custom-image15 {  
+    position: absolute;  
+    top: 3500px;  
+    left: 170px;
+    width: 30%;
+   }
+
+   .custom-image16 {  
+    position: absolute;  
+    top: 3850px;  
+    left: 170px;
+    width: 30%;
+   }
+
+   .custom-image17 {  
+    position: absolute;  
+    top: 4150px;  
+    left: 600px;
+    width: 30%;
+   }
+
+   .custom-image18 {  
+    position: absolute;  
+    top: 4510px;  
+    left: 170px;
+    width: 30%;
+    height: 300px;
+    object-fit:cover
+   }
+
+   .custom-image19 {  
+    position: absolute;  
+    top: 4920px;  
+    left: 170px;
+    width: 30%;
+   }
+
+   .custom-image20 {  
+    position: absolute;  
+    top: 5230px;  
+    left: 600px;
+    width: 30%;
+   }
+
+   .custom-image21 {  
+    position: absolute;  
+    top: 5580px;  
+    left: 170px;
+    width: 30%;
+   }
+
+   .custom-image22 {  
+    position: absolute;  
+    top: 5960px;  
+    left: 170px;
+    width: 30%;
+   }
+
+   .custom-image23 {  
+    position: absolute;  
+    top: 6350px;  
+    left: 170px;
+    width: 30%;
+    height: 280px;
+    object-fit:cover
+   }
+
+   .custom-image24 {  
+    position: absolute;  
+    top: 6700px;  
+    left: 170px;
+    width: 30%;
+   }
+
+   .custom-image25 {  
+    position: absolute;  
+    top: 6980px;  
+    left: 600px;
+    width: 30%;
+   }
+
+   .custom-image40 {  
+    position: absolute;  
+    top: 7320px;  
+    left: 170px;
+    width: 30%;
+    height: 280px;
+    object-fit:cover
+   }
+
+   .custom-image26 {  
+    position: absolute;  
+    top: 7700px;  
+    left: 170px;
+    width: 30%;
+   }
+
+   .custom-image27 {  
+    position: absolute;  
+    top: 8050px;  
+    left: 170px;
+    width: 30%;
+   }
+
+   .custom-image28 {  
+    position: absolute;  
+    top: 8370px;  
+    left: 600px;
+    width: 30%;
+   }
+
+   .custom-image29 {  
+    position: absolute;  
+    top: 8740px;  
+    left: 170px;
+    width: 30%;
+   }
+
+   .custom-image30 {  
+    position: absolute;  
+    top: 9120px;  
+    left: 170px;
+    width: 30%;
+   }
+
+   .custom-image31 {  
+    position: absolute;  
+    top: 9500px;  
+    left: 170px;
+    width: 30%;
+    height: 280px;
+    object-fit:cover
+   }
+
+   .custom-image32 {  
+    position: absolute;  
+    top: 9890px;  
+    left: 170px;
+    width: 30%;
+   }
+
+   .custom-image33 {  
+    position: absolute;  
+    top: 10280px;  
+    left: 170px;
+    width: 30%;
+   }
+
+   .custom-image34 {  
+    position: absolute;  
+    top: 10670px;  
+    left: 170px;
+    width: 30%;
+   }
+
+   .custom-image35 {  
+    position: absolute;  
+    top: 11050px;  
+    left: 170px;
+    width: 30%;
+   }

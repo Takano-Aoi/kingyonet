@@ -1,0 +1,68 @@
+// Place all the styles related to the pets controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+
+
+.box {
+    color: rgb(0, 0, 0);  /*文字色を青に設定*/
+    background-color:rgb(169, 248, 248);
+   }
+
+   
+.headline {
+    color: rgb(0, 0, 0);  /*文字色を青に設定*/
+    background-color:rgb(255, 255, 255);
+    font-size: 100%;
+    margin: 0 auto;
+    height: 50px;
+    width: 80%;
+   }
+
+   
+.start {
+    color: rgb(0, 0, 0);  /*文字色を青に設定*/
+    background-color:rgb(255, 255, 255);
+    font-size: 100%;
+    margin: 0 auto;
+    height: 50px;
+    width: 80%;
+   }
+
+.row{
+    color: rgb(0, 0, 0);  /*文字色を青に設定*/
+    background-color:rgb(169, 248, 248)
+   }
+
+.col-12{
+    color: rgb(0, 0, 0);  /*文字色を青に設定*/
+    background-color:rgb(203, 247, 149);
+    font-size: 130%;
+    margin: 0 auto;
+    height: 50px;
+    width: 30%;
+    text-align:center;
+    border-radius: 10px;
+   }
+
+.col-6{
+    color: rgb(0, 0, 0);  /*文字色を青に設定*/
+    background-color:rgb(255, 255, 255);
+    font-size: 100%;
+    margin: 0 auto;
+    height: 50px;
+    width: 30%;
+    text-align:center;
+    border-radius: 10px;
+   }
+
+.sindanbotan{
+    color: rgb(0, 0, 0);  /*文字色を青に設定*/
+    background-color:rgb(169, 248, 248);
+    font-size: 100%;
+    margin: 0 auto;
+    height: 50px;
+    width: 100%;
+    text-align:center;
+    
+   }
+
