@@ -36,7 +36,7 @@
 
 .tweet-container {
     color: rgb(0, 0, 0);  /*文字色を青に設定*/
-    background-color:rgb(255, 255, 255);
+    background-color:rgb(169, 248, 248);
     font-size: 100%;
     margin: 0 auto;
     height: 600px;
@@ -45,16 +45,22 @@
 
    .tweet {
     color: rgb(0, 0, 0);  /*文字色を青に設定*/
-    background-color:rgb(255, 255, 255);
+    background-color:rgb(169, 248, 248);
     font-size: 100%;
     margin: 0 auto;
     height: 50px;
     width: 80%;
    }
 
-   custom-imageA {
+   .custom-imageA {
     position: absolute;  
-    top:360px;  
-    left: 170px;
-    width: 30%;
+    top:150px;  
+    left: 350px;
+    width: 40%;
    }
+
+.h6 {
+    font-size: 150%;
+    position: absolute; 
+    font-weight: 100; 
+}
