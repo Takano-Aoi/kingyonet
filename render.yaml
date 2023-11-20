@@ -1,12 +1,12 @@
 databases:
   - name: Kingyonet_db
     databaseName: kingyonet_db
-    user: kingyonet
+    user: kingyo
     region: singapore
 
 services:
   - type: web
-    name: Kingyonet
+    name: kingyo
     env: ruby
     region: singapore
     plan: free

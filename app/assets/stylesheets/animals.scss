@@ -8,12 +8,29 @@
     background-color:rgb(169, 248, 248);
    }
 
-   
-.headline {
+.p {
     color: rgb(0, 0, 0);  /*文字色を青に設定*/
-    background-color:rgb(255, 255, 255);
-    font-size: 100%;
+    font-size: 300%;
     margin: 0 auto;
+    text-align: center;
+    font-weight: 100;
+  }
+
+  .h2 {
+    color: rgb(0, 0, 0);  /*文字色を青に設定*/
+    font-size: 300%;
+    margin: 0 auto;
+    text-align: center;
+    font-weight: 100;
+  }
+
+
+.header {
+    color: rgb(0, 0, 0);  /*文字色を青に設定*/
+    background-color:rgb(169, 248, 248);
+    font-size: 300%;
+    margin: 0 auto;
+    text-align: center;
     height: 50px;
     width: 80%;
    }
@@ -21,9 +38,10 @@
    
 .start {
     color: rgb(0, 0, 0);  /*文字色を青に設定*/
-    background-color:rgb(255, 255, 255);
+    background-color:rgb(169, 248, 248);
     font-size: 100%;
     margin: 0 auto;
+    text-align: center;
     height: 50px;
     width: 80%;
    }
@@ -54,9 +72,18 @@
 
    .custom-imageA {
     position: absolute;  
-    top:150px;  
-    left: 350px;
+    top:180px;  
+    left: 400px;
     width: 40%;
+   }
+
+   .custom-imageH {
+    position: absolute;  
+    top:180px;  
+    left: 400px;
+    height:300px;
+    width: 40%;
+    object-fit:cover
    }
 
 .h6 {

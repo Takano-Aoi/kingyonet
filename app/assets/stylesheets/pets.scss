@@ -25,6 +25,7 @@
     font-size: 100%;
     margin: 0 auto;
     height: 50px;
+    text-align: center;
     width: 80%;
    }
 
@@ -115,51 +116,59 @@
     width: 80%;
    }
 
-   custom-imageA {
+
+   .custom-imageA {
     position: absolute;  
-    top:360px;  
-    left: 170px;
-    width: 30%;
+    top:220px;  
+    left: 350px;
+    width: 40%;
+    height: 300px;
+    object-fit:cover
    }
 
-   custom-imageA {
+
+
+   .custom-imageB {
     position: absolute;  
-    top:360px;  
-    left: 170px;
+    top:220px;  
+    left: 230px;
     width: 30%;
+    height: 270px;
+    object-fit:cover
    }
 
-   custom-imageB {
+   .custom-imageC {
     position: absolute;  
-    top:360px;  
-    left: 170px;
+    top:220px;  
+    left: 660px;
     width: 30%;
+    height: 270px;
+    object-fit:cover
    }
 
-   custom-imageC {
+   .custom-imageD {
     position: absolute;  
-    top:360px;  
-    left: 170px;
+    top:220px;  
+    left: 90px;
     width: 30%;
+    height: 270px;
+    object-fit:cover
    }
 
-   custom-imageD {
+   .custom-imageE {
     position: absolute;  
-    top:360px;  
-    left: 170px;
+    top:220px;  
+    left: 450px;
     width: 30%;
+    height: 270px;
+    object-fit:cover
    }
 
-   custom-imageE {
+   .custom-imageF {
     position: absolute;  
-    top:360px;  
-    left: 170px;
+    top:220px;  
+    left: 800px;
     width: 30%;
-   }
-
-   custom-imageF {
-    position: absolute;  
-    top:360px;  
-    left: 170px;
-    width: 30%;
+    height: 270px;
+    object-fit:cover
    }
